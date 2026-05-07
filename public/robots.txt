@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Rechtliche Seiten nicht indexieren (sind im HTML auch noindex)
+Disallow: /impressum
+Disallow: /datenschutz
+
+Sitemap: https://www.hausmeisterservice-knecht.de/sitemap.xml

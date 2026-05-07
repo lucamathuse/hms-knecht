@@ -1,0 +1,27 @@
+/* ──────────────────────────────────
+   Design-Tokens — zentrale CSS-Variablen
+   Wird in tokens.css statt im :root jeder Seite definiert.
+   ────────────────────────────────── */
+
+:root {
+    /* Farben */
+    --forest: #1a237e;
+    --forest-deep: #131a5e;
+    --forest-soft: #283593;
+    --cream: #fef8e0;
+    --cream-deep: #fbeebd;
+    --paper: #fbfaf6;
+    --ocher: #f5c000;
+    --ocher-deep: #c89500;
+    --ocher-soft: #fef0b3;
+    --ink: #15151f;
+    --ink-soft: #44445a;
+    --gray: #82828f;
+    --line: #d8d8e0;
+    --rule: rgba(26, 35, 126, 0.16);
+
+    /* Schriften */
+    --font-serif: "Fraunces", serif;
+    --font-sans: "Inter Tight", system-ui, sans-serif;
+    --font-mono: "JetBrains Mono", monospace;
+}
