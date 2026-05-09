@@ -22,9 +22,9 @@ export const useSiteConfig = () => {
         // Kontakt
         phoneMobile: "01525 / 7463993",
         phoneMobileE164: "+4915257463993",
-        phoneFix: "02984 / 4679990",
-        phoneFixE164: "+4929844679990",
-        email: "kontakt@hausmeisterservice-knecht.de",
+        phoneFix: "02984 / 4679988",
+        phoneFixE164: "+4929844679988",
+        email: "karsten@hms-knecht.de",
 
         // Öffnungszeiten
         openingHours: "Mo–Sa · 07:00–19:00",
